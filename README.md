@@ -1,16 +1,11 @@
-# spotx
+# SpotX
 
-A new Flutter project.
+The Real-Time vehicle tracker.
 
-## Getting Started
+## PortFolio
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Thumb1-3](https://github.com/RaveenRPY/SpotX/assets/122425829/1d8c8e54-cbce-47a7-99db-200a0a3ffabb)
+![Thumb2](https://github.com/RaveenRPY/SpotX/assets/122425829/6de04fae-5aee-4cd6-805d-9d3df77e529e)
